@@ -1,11 +1,9 @@
-# coa0b4d82ad7768f1b165f0da
+# U Got Jokes?
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## A smile and a laugh are worth a thousand words.
+<br/>
+<h4>We all need smiles to light up our faces if not laughter to brighten up our mood.</h4> This project tries to achieve that by ensuring you at least smile when you click a button or just, in general, run it. Hope you enjoy.
+<br/><br/>
 
 ## Development
 
