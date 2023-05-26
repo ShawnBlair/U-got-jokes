@@ -3,9 +3,6 @@ import Joke from "./Joke"
 import jokesData from "./jokesData"
 
 export default function App(){    
-    
-       
-    
     const [jd, setJd] = React.useState(jokesData)
     
     const jdelement = jd.map(jd1 =>    
